@@ -1,0 +1,3 @@
+/home/ali/CLionProjects/esgx/cmake-build-debug/CMakeFiles/esgx.dir
+/home/ali/CLionProjects/esgx/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ali/CLionProjects/esgx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
