@@ -8,6 +8,7 @@ int init_graphics(char *title, int width, int height)
     SDL_Init(SDL_INIT_VIDEO);
     SDL_Init(SDL_INIT_VIDEO) != 0 ? exit_with_error(window, renderer) : 0;
 
+
     SDL_CreateWindowAndRenderer(width, height, 0, &window, &renderer);
     SDL_CreateWindowAndRenderer(width, height, 0, &window, &renderer) != 0 ? exit_with_error(window, renderer) : 0;
     SDL_SetWindowTitle(window, title);
