@@ -7,7 +7,8 @@ include_directories(include)
 
 add_executable(esgx
         include/esgx.h
-        errors.c
-        main.c
-        os.c
-        window.c)
+        src/errors.c
+        src/main.c
+        src/os.c
+        src/window.c
+        src/errors.c)
