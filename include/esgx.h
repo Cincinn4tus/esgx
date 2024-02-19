@@ -1,6 +1,7 @@
 #include <SDL2/SDL.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include "colors.h"
 
 // Recherche du système d'exploitation
 extern void os_type();

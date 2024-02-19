@@ -1,0 +1,21 @@
+// convertir le nom des couleurs en code RGB
+#define red 255,0,0
+#define green 0,255,0
+#define blue 0,0,255
+#define yellow 255,255,0
+#define cyan 0,255,255
+#define magenta 255,0,255
+#define white 255,255,255
+#define black 0,0,0
+#define grey 128,128,128
+#define silver 192,192,192
+#define maroon 128,0,0
+#define olive 128,128,0
+#define lime 0,255,0
+#define aqua 0,255,255
+#define teal 0,128,128
+#define navy 0,0,128
+#define fuchsia 255,0,255
+#define purple 128,0,128
+#define orange 255,165,0
+#define brown 165,42,42
